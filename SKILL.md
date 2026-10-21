@@ -4,11 +4,31 @@ version: "1.0.0"
 display_name: 社会学研究方法
 display_name_en: Social Science Research Methods
 description: >
-  A working knowledge base and workflow for social science research methods, organized around six evidence routes: description and population inference (sampling frames, measurement, weighting, nonresponse), causal identification (counterfactuals, experiments, difference-in-differences, instrumental variables, regression discontinuity, fixed effects, confounder selection), association and modelling (regression interpretation, functional form, collinearity, influence, model assessment), mechanism and process (case studies, comparison, set-theoretic conditions, process tracing), concepts and measurement (conceptualization, operationalization, levels of measurement, reliability and validity), and new data and prediction (big data, complexity, online research, predictive models). Use when users ask what a method means, want to interpret a social phenomenon methodologically, need help turning a topic into a defensible design, are writing the methods section of an empirical paper, or need to evaluate the research design quality of a paper or proposal. Do NOT use for purely statistical software troubleshooting, mathematical proofs, or substantive theory disputes unrelated to evidence design.
+  A working knowledge base for social science research methods across six routes: population
+  description (sampling frames, measurement, weighting, nonresponse); causal identification
+  (counterfactuals, experiments, difference-in-differences, instrumental variables, regression
+  discontinuity, fixed effects); association and modelling (coefficient reading, functional form,
+  collinearity, model assessment); mechanism and process (case studies, comparison, necessary and
+  sufficient conditions); concepts and measurement (conceptualization, operationalization, levels of
+  measurement, reliability and validity); new data and prediction (big data, online research,
+  predictive models). Use for explaining methods, interpreting phenomena methodologically, answering
+  methodological questions, systematic study, developing topics, designing papers, and evaluating
+  design quality. Do NOT use for software debugging, mathematical proofs, or theory disputes unrelated
+  to evidence design.
 description_zh: >
-  社会学研究方法（Social Science Research Methods）知识库与工作流，覆盖六条证据路线：①描述与总体推断（抽样框、测量、加权、无应答、覆盖误差）；②因果识别（反事实框架、实验与自然实验、双重差分、工具变量、断点回归、固定效应、混杂与控制变量选择）；③关联与建模（回归系数的三种解读、函数形式、共线性、影响力点、聚类标准误、模型评估与正则化）；④机制与过程（案例研究、比较方法、必要与充分条件、过程追踪、复杂性与多重因果）；⑤概念与测量（概念化、操作化、测量层次、信度与效度、指数与量表）；⑥新型数据与预测（大数据与复杂性、在线研究与在线实验、预测模型的构念效度）。用于：研究方法知识科普与概念解释、用方法视角解读社会现象、解答方法专业问题、系统学习知识点、探讨方法论研究选题、撰写实证论文时做正确的研究设计、评估论文或课题的研究设计质量。当用户提到研究设计、抽样、样本量、测量、操作化、信度、效度、量表、问卷、无应答、加权、因果推断、反事实、混杂、控制变量、内生性、双重差分、工具变量、断点回归、固定效应、倾向值匹配、回归、系数解读、共线性、稳健性检验、p 值、置信区间、统计功效、多重比较、案例研究、过程追踪、比较方法、混合方法、扎根理论、大数据、在线实验、预测模型、机器学习时使用。不用于：纯软件报错排查、数学证明、与证据设计无关的 substantive 理论争论。
+  社会学研究方法知识库与工作流，覆盖六条证据路线：①描述与总体（抽样框、测量、加权、无应答）；②因果识别（反事实、实验与准实验、双重差分、工具变量、断点回归、混杂与控制变量选择）；③关联与建模（回归系数解读、函数形式、共线性、模型评估）；④机制与过程（案例研究、比较方法、必要与充分条件、过程追踪）；⑤概念与测量（概念化、操作化、测量层次、信度与效度）；⑥新型数据与预测（大数据、在线研究、预测模型）。用于方法知识科普、用方法解读社会现象、解答方法专业问题、系统学习知识点、探讨选题、撰写实证论文时做研究设计、评估论文设计质量。常见提问涉及研究设计、抽样、样本量、操作化、信度效度、量表、无应答、加权、因果推断、混杂、控制变量、内生性、双重差分、工具变量、断点回归、固定效应、回归、共线性、稳健性检验、p 值、置信区间、统计功效、案例研究、过程追踪、混合方法、大数据、在线实验、机器学习。不用于：软件报错排查、数学证明、与证据设计无关的理论争论。
 description_en: >
-  A working knowledge base for social science research methods across six evidence routes: description and population inference (frame, measurement, weighting, nonresponse, coverage error); causal identification (counterfactuals, experiments and natural experiments, difference-in-differences, instrumental variables, regression discontinuity, fixed effects, confounder selection); association and modelling (three readings of a regression coefficient, functional form, collinearity, influence, design effects, model assessment and regularization); mechanism and process (case studies, comparison, necessary and sufficient conditions, process tracing, complexity and multiple causation); concepts and measurement (conceptualization, operationalization, levels of measurement, reliability and validity, indices versus scales); and new data and prediction (big data, complexity science, online research and online experiments, construct validity of predictive models). Use for explaining methods, interpreting phenomena methodologically, converting a topic into a defensible design, writing methods sections, and evaluating design quality. Do not use for software debugging, mathematical proofs, or theory disputes unrelated to evidence design.
+  A working knowledge base for social science research methods across six routes: population
+  description (sampling frames, measurement, weighting, nonresponse); causal identification
+  (counterfactuals, experiments, difference-in-differences, instrumental variables, regression
+  discontinuity, fixed effects); association and modelling (coefficient reading, functional form,
+  collinearity, model assessment); mechanism and process (case studies, comparison, necessary and
+  sufficient conditions); concepts and measurement (conceptualization, operationalization, levels of
+  measurement, reliability and validity); new data and prediction (big data, online research,
+  predictive models). Use for explaining methods, interpreting phenomena methodologically, answering
+  methodological questions, systematic study, developing topics, designing papers, and evaluating
+  design quality. Do NOT use for software debugging, mathematical proofs, or theory disputes unrelated
+  to evidence design.
 ---
 
 # 社会学研究方法（Social Science Research Methods）
